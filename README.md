@@ -1,6 +1,6 @@
-**Name: Prakhar Bhardwaj**\
-**Reg No: 23MEI10051**\
-**Application no: IN26011412**\
+**Name: Kartik Tyagi**\
+**Reg No: 23BAI10360**\
+**Application no: IN**\
 **Batch Number: 1(A)**
 
 # AI-ML-Assignment-3
